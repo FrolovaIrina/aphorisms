@@ -1,1 +1,1 @@
-# aphorisms
+Tässä on sovelluskokoelma aforismeja
